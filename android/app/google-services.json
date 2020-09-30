@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "61794415608",
+    "firebase_url": "https://inventory-management-sys-2b487.firebaseio.com",
+    "project_id": "inventory-management-sys-2b487",
+    "storage_bucket": "inventory-management-sys-2b487.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61794415608:android:9dd752b810f2989c3cdc0d",
+        "android_client_info": {
+          "package_name": "com.inventory.inventory_management_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61794415608-bj9ggaov8lfs948anbi4qt3jgl87i1ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Ukf3sXzpvp9M-UO6GMzVSq6H1ohOGXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61794415608-bj9ggaov8lfs948anbi4qt3jgl87i1ej.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "61794415608-sjss0s30b1q7mdvl2oe926gqghks70bv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.inventory.inventoryManagementSystem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>61794415608-sjss0s30b1q7mdvl2oe926gqghks70bv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.61794415608-sjss0s30b1q7mdvl2oe926gqghks70bv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC6WjrhHUHzVKOW5SPOIOFZevaKUVkB7pI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>61794415608</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.inventory.inventoryManagementSystem</string>
+	<key>PROJECT_ID</key>
+	<string>inventory-management-sys-2b487</string>
+	<key>STORAGE_BUCKET</key>
+	<string>inventory-management-sys-2b487.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:61794415608:ios:59d76b327dadf18a3cdc0d</string>
+	<key>DATABASE_URL</key>
+	<string>https://inventory-management-sys-2b487.firebaseio.com</string>
+</dict>
+</plist>
